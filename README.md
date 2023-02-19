@@ -1,3 +1,3 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Abel Henryan Dwantara**.\
+Perkenalkan nama saya **Abel Henryan Dwantara**.
