@@ -1,4 +1,4 @@
-# Halo semua! 
+# Halo semuas! 
 
 Perkenalkan nama saya **Abel Henryan Dwantara**.
 <p align="left">
