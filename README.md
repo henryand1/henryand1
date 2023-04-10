@@ -1,6 +1,6 @@
-# Halo semua! 
+# Hello everyone! 
 
-Perkenalkan nama saya **Abel Henryan Dwantara**.
+Greetings, My name is Abel Henryan Dwantara **Abel Henryan Dwantara**.
 <p align="left">
 <a href="https://github.com/henryand1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henryand1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
