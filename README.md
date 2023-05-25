@@ -1,7 +1,7 @@
-# Hello everyone! 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+# Hello everyone! 
 Greetings, My name is Abel Henryan Dwantara **Abel Henryan Dwantara**.
 <p align="left">
 <a href="https://github.com/henryand1">
