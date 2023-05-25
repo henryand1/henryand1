@@ -7,6 +7,7 @@ Greetings, My name is Abel Henryan Dwantara **Abel Henryan Dwantara**.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henryand1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-http://github-readme-streak-stats.herokuapp.com?user=your-henryand1&theme=dark&background=000000)](https://git.io/streak-stats)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=henryand1&layout=compact&theme=vision-friendly-dark)](https://github.com/henryand1/github-readme-stats)
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=henryand1&theme=dark&background=000000)](https://git.io/streak-stats)
 
