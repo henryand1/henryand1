@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/abel-henryan-b29337205/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=henryand1&style=flat-square&color=blue" alt=""/>
 </div>
+     <img src="https://komarev.com/ghpvc/?username=henryand1&style=flat-square&color=blue" alt=""/>
 <h1>
   Hello Everyone, My name is Abel Henryan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
