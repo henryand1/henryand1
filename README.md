@@ -1,5 +1,11 @@
-# Hello everyone! 
-Greetings, My name is Abel Henryan Dwantara **Abel Henryan Dwantara**.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/abel-henryan-b29337205/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <p align="left">
 <a href="https://github.com/henryand1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henryand1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
